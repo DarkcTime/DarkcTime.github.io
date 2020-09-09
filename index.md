@@ -24,11 +24,17 @@ Administrating:
 
 ---
 ## Soft Skills 
-I like communicate with people, but only for joint tasks or in your free time. I am interested in time management and team work. 
+- I like communicate with people, but only for do tasks or in your free time. 
+- I am interested in time management and team work. 
+- I can independently google for solve individual problems.
+- I want to learn new things.
 
 ---
 ## Experience
-
+- 1 year: preparation and participation in Worldskills competitions. The goal is to solve tasks in a limited time 
+for automating business processes. I use for this C#, WPF, MVVM, Visio, ASP.Net, Android Studio, Nugets Packages and other technology. 
+- 3 year: study in college. In during this times, I'm study fundamental disciplines and do study tasks + more self-education (course and youtube) 
+- 8 months work with employment contract in the information security department  <a href="https://www.citis.ru/">https://www.citis.ru/</a>
 
 ---
 ## Sertificates
