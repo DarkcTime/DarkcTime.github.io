@@ -3,7 +3,7 @@
 ---
 ## About me 
 
-I'm final year student in this college - https://ks54.ru. My main goal the growth in of programming (I like .Net and Java).
+I'm final year student in this college - <a href="https://ks54.ru">https://ks54.ru</a>. My main goal the growth in of programming (I like .Net and Java).
 
 ---
 ## Hard Skills
@@ -38,11 +38,10 @@ I like communicate with people, but only for joint tasks or in your free time. I
 
 ### Repositories
 
-- [Project 1 Title](http://example.com/)
-- [Project with MVVM,Entity Framework and MSSQL Server](https://github.com/DarkcTime/college_GAI)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [CarSharing - project with MVC, Entity Framework and MSSQL Server](https://github.com/DarkcTime/college_CarSharing)
+- [GAI - project with MVVM,Entity Framework and MSSQL Server](https://github.com/DarkcTime/college_GAI)
+- [Airport - project with MVVM, Entity Framework and MSSQL, championship task](https://github.com/DarkcTime/AMONIC)
+- [Mobile app - project in Android Studio, with use other library](http://example.com/)
 
 ---
 
