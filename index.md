@@ -47,7 +47,7 @@ for automating business processes. I use for this C#, WPF, MVVM, Visio, ASP.Net,
 - [CarSharing - project with MVC, Entity Framework and MSSQL Server](https://github.com/DarkcTime/college_CarSharing)
 - [GAI - project with MVVM,Entity Framework and MSSQL Server](https://github.com/DarkcTime/college_GAI)
 - [Airport - project with MVVM, Entity Framework and MSSQL, championship task](https://github.com/DarkcTime/AMONIC)
-- [Mobile app - project in Android Studio, with use other library](http://example.com/)
+- [Mobile app - project in Android Studio, with use other library](https://github.com/DarkcTime/Mobile)
 
 ---
 
