@@ -13,7 +13,7 @@ Programming languaches:
 - Python +
 
 Database managment systems: 
-- Microsoft SQL Managment Studio +++ 
+- Microsoft SQL Management Studio +++ 
 - PostgreSql ++ 
 
 Administrating: 
